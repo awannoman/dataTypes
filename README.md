@@ -1,0 +1,2 @@
+# dataTypes
+In Javascript
